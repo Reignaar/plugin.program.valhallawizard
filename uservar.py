@@ -100,11 +100,7 @@ REPOID = 'repository.reignaar'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
 REPOADDONXML = 'https://reignaar.github.io/valhalla/repo/repository.reignaar/addon.xml'
 # Url to folder zip is located in
-<<<<<<< HEAD
-REPOZIPURL = 'https://reignaar.github.io/valhalla/repo/zips/plugin.program.valhallawizard-master.zip'
-=======
-REPOZIPURL = 'https://reignaar.github.io/valhalla/repo/zips/plugin.program.valhallawizard-m.zip'
->>>>>>> c5862341c13eb08f74c7cdc415574221830dd7e3
+REPOZIPURL = 'https://reignaar.github.io/valhalla/repo/zips/plugin.program.valhallawizard.zip'
 #########################################################
 
 #########################################################
